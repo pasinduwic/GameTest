@@ -15,6 +15,12 @@ footer{
     margin-top: 2%;
 }
 
+img{
+
+    height: 191px;
+    width: 202px;
+}
+
 .player{
 
     display: inline-block;
@@ -25,4 +31,9 @@ footer{
     font-size: 4rm;
     padding: 10px;
     margin-top: 10px;
+}
+
+.worning{
+
+    color: red;
 }

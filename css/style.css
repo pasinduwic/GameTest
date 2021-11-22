@@ -7,7 +7,8 @@ body{
 
 h1{
 
-    font-size: 6em;
+    font-size: 4rem;
+    margin-top: 10%;
 }
 
 footer{
@@ -17,8 +18,8 @@ footer{
 
 img{
 
-    height: 191px;
-    width: 202px;
+    height: 60%;
+    width: 60%;
 }
 
 .player{

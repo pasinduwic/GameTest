@@ -1,0 +1,28 @@
+body{
+
+    text-align: center;
+    color: #167454;
+    background-color: rgb(207, 207, 207);
+}
+
+h1{
+
+    font-size: 6em;
+}
+
+footer{
+
+    margin-top: 2%;
+}
+
+.player{
+
+    display: inline-block;
+}
+
+.btn-play{
+
+    font-size: 4rm;
+    padding: 10px;
+    margin-top: 10px;
+}
